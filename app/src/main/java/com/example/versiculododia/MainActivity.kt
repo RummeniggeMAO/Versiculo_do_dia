@@ -8,6 +8,7 @@ import android.widget.Button
 import android.widget.TextView
 import java.util.Random
 
+//Enviando primeiro commit 26/10
 class MainActivity : AppCompatActivity() {
     lateinit var botaoLeia: Button
     lateinit var textoMostra: TextView
