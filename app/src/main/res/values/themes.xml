@@ -4,6 +4,9 @@
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name="colorSecondary">@color/azul</item>
+        <item name="colorPrimary">@color/primaria</item>
+
+        <item name="android:windowBackground">@color/fundo</item>
 
     </style>
 

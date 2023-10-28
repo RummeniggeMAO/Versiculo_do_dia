@@ -4,4 +4,10 @@
     <color name="white">#FFFFFFFF</color>
     <color name="azul">#22223b</color>
 
+
+    <color name="fundo">#090809</color>
+    <color name="primaria">#E50914</color>
+
+
+
 </resources>
